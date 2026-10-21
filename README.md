@@ -9,7 +9,7 @@ Digipulse is an interactive web-based data dashboard built to explore and analyz
 ## 🔍 Overview & Features
 
 The dashboard processes user submissions regarding multi-platform data to expose key behavioral trends:
-* *Key Performance Indicators (KPIs):* Instant view of macro trends including *Average Screen Time, **Average Sleep Duration, and aggregate **Anxiety Scores* (evaluated out of 27).
-* *Multi-Attribute Filters:* Filter dynamically by *Gender, **Age Range, and individual **Social Media Platforms* (supporting TikTok, Instagram, YouTube, LinkedIn, X/Twitter, Facebook, Snapchat, and Reddit).
-* *Primary Purpose Analytics:* A custom donut breakdown detailing why users leverage specific applications (e.g., Entertainment, Work, Content Creation).
-* *Usage Frequency Monitoring:* Side-by-side volume metrics mapping individual usage trends per platform.
+* Key Performance Indicators (KPIs): Instant view of macro trends including Average Screen Time, Average Sleep Duration, and aggregate Anxiety Scores (evaluated out of 27).
+* Multi-Attribute Filters: Filter dynamically by Gender, Age Range, and individual Social Media Platforms (supporting TikTok, Instagram, YouTube, LinkedIn, X/Twitter, Facebook, Snapchat, and Reddit).
+* Primary Purpose Analytics: A custom donut breakdown detailing why users leverage specific applications (e.g., Entertainment, Work, Content Creation).
+* Usage Frequency Monitoring: Side-by-side volume metrics mapping individual usage trends per platform.
